@@ -9,7 +9,7 @@ It also has support to install **extensions and execute scripts** inside the web
 # Features
 - **Built-in browser** — Browse Nexus Mods collection pages directly inside Vortex.
 - **Extension support** — Load browser extensions from a dedicated directory.
-- *User scripts** — Execute custom JavaScript files in the internal browser.
+- **User scripts** — Execute custom JavaScript files in the internal browser.
 - **Easy setup** — Apply the patch using a standalone Node.js script.
 
 ---
@@ -33,7 +33,7 @@ _(Check your Vortex path before running this, maybe its on a different folder)._
 2. Run Vortex.
 3. Go to the game you want, select "Browse Nexus Mods" and inside the "colletions" tab, use the "View Page".
 
-![steps](image/steps.png)
+![steps](images/steps.png)
 
 4. Now you can browse the collections website using the browser built into Vortex.
 
