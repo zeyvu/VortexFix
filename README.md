@@ -18,20 +18,20 @@ It also has support to install **extensions and execute scripts** inside the web
 The requirements are simple, as you only need to apply a patch to the Electron code:
 
 - Nexus Mods [Vortex client](https://www.nexusmods.com/vortex) version v2.8.0.
-- [NodeJS](https://nodejs.org/en/download)_(tested on **v26.11.1**)_.
+- [NodeJS](https://nodejs.org/en/download) _(tested on **v26.11.1**)_.
 
 ---
 
 # Installing
 
-1. First you need to run the patcher:
+1. First you need to run the patcher (terminal with admin rights):
 ```sh
 node patch-vortex.js "C:\Program Files\Vortex\resources\app.asar"
 ```
 _(Check your Vortex path before running this, maybe its on a different folder)._
 
 2. Run Vortex.
-3. Go to the game you want, select "Browse Nexus Mods" and inside the "colletions" tab, use the "View Page".
+3. Go to the game you want, select **"Browse Nexus Mods"** and inside the **"colletions"** tab, use the **"View Page"**.
 
 ![steps](images/steps.png)
 
